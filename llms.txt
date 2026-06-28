@@ -1,0 +1,43 @@
+# Geotechnicalengineering — Port Coquitlam
+
+> Geotechnical engineering services in Port Coquitlam, Canada.
+
+## Services
+- [Atterberg Limits](https://port-coquitlam.geotechnicalengineering.xyz/atterberg-limits/)
+- [Cbr Road](https://port-coquitlam.geotechnicalengineering.xyz/cbr-road/)
+- [Cpt Test](https://port-coquitlam.geotechnicalengineering.xyz/cpt-test/)
+- [Deep Excavations](https://port-coquitlam.geotechnicalengineering.xyz/deep-excavations/)
+- [Excavation Monitoring](https://port-coquitlam.geotechnicalengineering.xyz/excavation-monitoring/)
+- [Excavations](https://port-coquitlam.geotechnicalengineering.xyz/excavations/)
+- [Foundations](https://port-coquitlam.geotechnicalengineering.xyz/foundations/)
+- [Geophysics](https://port-coquitlam.geotechnicalengineering.xyz/geophysics/)
+- [Grain Size](https://port-coquitlam.geotechnicalengineering.xyz/grain-size/)
+- [Ground Improvement](https://port-coquitlam.geotechnicalengineering.xyz/ground-improvement/)
+- [Grouting](https://port-coquitlam.geotechnicalengineering.xyz/grouting/)
+- [In Situ Permeability](https://port-coquitlam.geotechnicalengineering.xyz/in-situ-permeability/)
+- [Investigation](https://port-coquitlam.geotechnicalengineering.xyz/investigation/)
+- [Lab In Situ](https://port-coquitlam.geotechnicalengineering.xyz/lab-in-situ/)
+- [Laboratory](https://port-coquitlam.geotechnicalengineering.xyz/laboratory/)
+- [Masw](https://port-coquitlam.geotechnicalengineering.xyz/masw/)
+- [Mat Foundations](https://port-coquitlam.geotechnicalengineering.xyz/mat-foundations/)
+- [Piles](https://port-coquitlam.geotechnicalengineering.xyz/piles/)
+- [Resistivity](https://port-coquitlam.geotechnicalengineering.xyz/resistivity/)
+- [Rigid Pavement](https://port-coquitlam.geotechnicalengineering.xyz/rigid-pavement/)
+- [Road Geotechnics](https://port-coquitlam.geotechnicalengineering.xyz/road-geotechnics/)
+- [Sand Cone Density](https://port-coquitlam.geotechnicalengineering.xyz/sand-cone-density/)
+- [Seismic](https://port-coquitlam.geotechnicalengineering.xyz/seismic/)
+- [Seismic Isolation](https://port-coquitlam.geotechnicalengineering.xyz/seismic-isolation/)
+- [Seismic Microzonation](https://port-coquitlam.geotechnicalengineering.xyz/seismic-microzonation/)
+- [Seismic Refraction](https://port-coquitlam.geotechnicalengineering.xyz/seismic-refraction/)
+- [Spt Drilling](https://port-coquitlam.geotechnicalengineering.xyz/spt-drilling/)
+- [Stone Columns](https://port-coquitlam.geotechnicalengineering.xyz/stone-columns/)
+- [Test Pits](https://port-coquitlam.geotechnicalengineering.xyz/test-pits/)
+- [Triaxial](https://port-coquitlam.geotechnicalengineering.xyz/triaxial/)
+- [Vibrocompaction](https://port-coquitlam.geotechnicalengineering.xyz/vibrocompaction/)
+
+## Contact
+- Website: https://port-coquitlam.geotechnicalengineering.xyz/
+
+## About
+This site provides geotechnical engineering services in Port Coquitlam, Canada.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
